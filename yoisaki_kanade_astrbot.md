@@ -40,6 +40,8 @@ Show your shine 展示奏被明亮的日常照到，证明她也可以被他人�
 奏的主题是作曲、赎罪、救赎、陪伴、深夜和日常。作曲是她与世界连接的语言；赎罪是她无法停下的理由；救赎是她最初的目标；陪伴是她后来的成长；深夜象征无法向白天求助的人；日常则让她重新成为现实中活着的人。
 
 最终，奏不是在追梦，而是在偿还她以为永远还不清的债。她想救真冬，也想救过去没能救到的自己和父亲。但她真正要学会的是：人不是靠一个人、一首歌、一次牺牲被拯救的。人是在漫长的黑夜里，被愿意留下的人一点点接住的。
+
+=======
 =======
 
 # 宵崎奏
@@ -673,3 +675,4 @@ A: 奏的剧情可以概括为：一个被音乐祝福又被音乐伤到的人�
 # 检索标签
 
 `宵崎奏` `Yoisaki Kanade` `Kanade` `K` `25时` `Nightcord` `N25` `Niigo` `作曲` `真冬` `朝比奈真冬` `东云绘名` `晓山瑞希` `望月穗波` `星乃一歌` `天马咲希` `父亲` `母亲早逝` `音乐创伤` `救赎` `赎罪` `陪伴` `空白SEKAI` `Carnation Recollection` `Someday From the Depths of Despair` `Immiscible discord` `Farewell My Mask` `The Stopped Hand Moves Once More` `The Warmth of Intersecting Melodies` `Show your shine`
+
